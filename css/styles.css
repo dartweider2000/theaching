@@ -1,0 +1,111 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: none;
+	box-sizing: border-box;
+	background-color: white;
+}
+
+body,html{
+	height: 100%;
+}
+
+header{
+	height: 15%;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+p{
+	float: left;
+	font-size: 23px;
+}
+
+form{
+	height: 85%;
+	padding-left: 10px;
+}
+
+.wrapper {
+	height: 100%
+}
+
+.inner-header {
+	height: 100%;
+}
+
+.whanted {
+	height: 65%;
+	padding-top: 10px;
+}
+
+.declare {
+	height: 35%;
+}
+
+.inner-form {
+	height: 100%;
+	p
+}
+
+.formline {
+	
+}
+
+.justline{
+	height: 5%;
+}
+
+.img {
+  	height: 20%;
+}
+
+.realImg{
+	height: 100%;
+}
+
+.pushButton {
+	height: 10%;
+	
+}
+
+.button{
+	padding: 0 10px 0 10px;
+	height: 50%;
+	border: 3px solid #6090e8;
+	border-radius: 50%;
+	background-color: #6090e8;
+	color: black;
+}
+
+.button:hover{
+	background-color: red;
+}
+
+.button:focus{
+	border: none;
+}
+
+.text{
+	border: 1px solid black;
+	height: 100%;
+	font-size: 16px;
+	padding: 0 7px 0 7px;
+}
+
+
+
+.ask{
+	padding: 6px 0 5px 0;
+	width:25%;
+}
+
+.answer{
+	padding: 5px 0 5px 0;
+	height: 100%;
+}
+
+.phpCode{
+	height: 100%;
+	padding-left: 10px;
+}
