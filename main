@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 d0c43576a3757d82897efa3c17fe12fe9f1599a6 Nikita Ivanov <nikita.ivanov574477333@gmail.com> 1610004071 +0300	commit (initial): first commit
+d0c43576a3757d82897efa3c17fe12fe9f1599a6 2f55c97dd6d217fe7d5175fc83d62d5d1f75b7ab Nikita Ivanov <nikita.ivanov574477333@gmail.com> 1610006370 +0300	commit: second commit
+2f55c97dd6d217fe7d5175fc83d62d5d1f75b7ab 2f55c97dd6d217fe7d5175fc83d62d5d1f75b7ab Nikita Ivanov <nikita.ivanov574477333@gmail.com> 1610006456 +0300	Branch: renamed refs/heads/master to refs/heads/main
+2f55c97dd6d217fe7d5175fc83d62d5d1f75b7ab e7ef980b2b5216bdf73e7b3d004cd18524fa3437 Nikita Ivanov <nikita.ivanov574477333@gmail.com> 1610007210 +0300	commit: third commit
